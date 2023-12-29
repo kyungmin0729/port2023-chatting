@@ -54,8 +54,6 @@ const Header = () => {
 
       <div className="btns">
         <Link to="/room">방 목록</Link>
-        <Link to="/join">회원가입</Link>
-        <Link to="/login">로그인</Link>
       </div>
     </OuterBox>
   );
